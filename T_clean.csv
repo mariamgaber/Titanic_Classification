@@ -1,0 +1,892 @@
+,PassengerId,Title,First_name,Last_Name,Years,Months,Sex,Fare,Pclass,Ticket,FamilySize,Southampton(S),Cherbourg(C),Queenstown(Q),Survived
+0,1,1, Owen Harris,Braund,22,0,0,7.25,3,A/5 21171,1,1,0,0,0
+1,2,3, John Bradley (Florence Briggs Thayer),Cumings,38,0,1,71.2833,1,PC 17599,1,0,1,0,1
+2,3,2, Laina,Heikkinen,26,0,1,7.925,3,STON/O2. 3101282,0,1,0,0,1
+3,4,3, Jacques Heath (Lily May Peel),Futrelle,35,0,1,53.1,1,113803,1,1,0,0,1
+4,5,1, William Henry,Allen,35,0,0,8.05,3,373450,0,1,0,0,0
+5,6,1, James,Moran,32,3,0,8.4583,3,330877,0,0,0,1,0
+6,7,1, Timothy J,McCarthy,54,0,0,51.8625,1,17463,0,1,0,0,0
+7,8,4, Gosta Leonard,Palsson,2,0,0,21.075,3,349909,4,1,0,0,0
+8,9,3, Oscar W (Elisabeth Vilhelmina Berg),Johnson,27,0,1,11.1333,3,347742,2,1,0,0,1
+9,10,3, Nicholas (Adele Achem),Nasser,14,0,1,30.0708,2,237736,1,0,1,0,1
+10,11,2, Marguerite Rut,Sandstrom,4,0,1,16.7,3,PP 9549,2,1,0,0,1
+11,12,2, Elizabeth,Bonnell,58,0,1,26.55,1,113783,0,1,0,0,1
+12,13,1, William Henry,Saundercock,20,0,0,8.05,3,A/5. 2151,0,1,0,0,0
+13,14,1, Anders Johan,Andersson,39,0,0,31.275,3,347082,6,1,0,0,0
+14,15,2, Hulda Amanda Adolfina,Vestrom,14,0,1,7.8542,3,350406,0,1,0,0,0
+15,16,3, (Mary D Kingcome) ,Hewlett,55,0,1,16.0,2,248706,0,1,0,0,1
+16,17,4, Eugene,Rice,2,0,0,29.125,3,382652,5,0,0,1,0
+17,18,1, Charles Eugene,Williams,32,3,0,13.0,2,244373,0,1,0,0,1
+18,19,3, Julius (Emelia Maria Vandemoortele),Vander Planke,31,0,1,18.0,3,345763,1,1,0,0,0
+19,20,3, Fatima,Masselmani,35,8,1,7.225,3,2649,0,0,1,0,1
+20,21,1, Joseph J,Fynney,35,0,0,26.0,2,239865,0,1,0,0,0
+21,22,1, Lawrence,Beesley,34,0,0,13.0,2,248698,0,1,0,0,1
+22,23,2," Anna ""Annie""",McGowan,15,0,1,8.0292,3,330923,0,0,0,1,1
+23,24,1, William Thompson,Sloper,28,0,0,35.5,1,113788,0,1,0,0,1
+24,25,2, Torborg Danira,Palsson,8,0,1,21.075,3,349909,4,1,0,0,0
+25,26,3, Carl Oscar (Selma Augusta Emilia Johansson),Asplund,38,0,1,31.3875,3,347077,6,1,0,0,1
+26,27,1, Farred Chehab,Emir,32,3,0,7.225,3,2631,0,0,1,0,0
+27,28,1, Charles Alexander,Fortune,19,0,0,263.0,1,19950,5,1,0,0,0
+28,29,2," Ellen ""Nellie""",O'Dwyer,21,7,1,7.8792,3,330959,0,0,0,1,1
+29,30,1, Lalio,Todoroff,32,3,0,7.8958,3,349216,0,1,0,0,0
+30,31,8, Manuel E,Uruchurtu,40,0,0,27.7208,1,PC 17601,0,0,1,0,0
+31,32,3, William Augustus (Marie Eugenie),Spencer,35,8,1,146.5208,1,PC 17569,1,0,1,0,1
+32,33,2, Mary Agatha,Glynn,21,7,1,7.75,3,335677,0,0,0,1,1
+33,34,1, Edward H,Wheadon,66,0,0,10.5,2,C.A. 24579,0,1,0,0,0
+34,35,1, Edgar Joseph,Meyer,28,0,0,82.1708,1,PC 17604,1,0,1,0,0
+35,36,1, Alexander Oskar,Holverson,42,0,0,52.0,1,113789,1,1,0,0,0
+36,37,1, Hanna,Mamee,32,3,0,7.2292,3,2677,0,0,1,0,1
+37,38,1, Ernest Charles,Cann,21,0,0,8.05,3,A./5. 2152,0,1,0,0,0
+38,39,2, Augusta Maria,Vander Planke,18,0,1,18.0,3,345764,2,1,0,0,0
+39,40,2, Jamila,Nicola-Yarred,14,0,1,11.2417,3,2651,1,0,1,0,1
+40,41,3, Johan (Johanna Persdotter Larsson),Ahlin,40,0,1,9.475,3,7546,1,1,0,0,0
+41,42,3, William John Robert (Dorothy Ann Wonnacott),Turpin,27,0,1,21.0,2,11668,1,1,0,0,0
+42,43,1, Theodor,Kraeff,32,3,0,7.8958,3,349253,0,0,1,0,0
+43,44,2, Simonne Marie Anne Andree,Laroche,3,0,1,41.5792,2,SC/Paris 2123,3,0,1,0,1
+44,45,2, Margaret Delia,Devaney,19,0,1,7.8792,3,330958,0,0,0,1,1
+45,46,1, William John,Rogers,32,3,0,8.05,3,S.C./A.4. 23567,0,1,0,0,0
+46,47,1, Denis,Lennon,32,3,0,15.5,3,370371,1,0,0,1,0
+47,48,2, Bridget,O'Driscoll,21,7,1,7.75,3,14311,0,0,0,1,1
+48,49,1, Youssef,Samaan,32,3,0,21.6792,3,2662,2,0,1,0,0
+49,50,3, Josef (Josefine Franchi),Arnold-Franchi,18,0,1,17.8,3,349237,1,1,0,0,0
+50,51,4, Juha Niilo,Panula,7,0,0,39.6875,3,3101295,5,1,0,0,0
+51,52,1, Richard Cater,Nosworthy,21,0,0,7.8,3,A/4. 39886,0,1,0,0,0
+52,53,3, Henry Sleeper (Myna Haxtun),Harper,49,0,1,76.7292,1,PC 17572,1,0,1,0,1
+53,54,3, Lizzie (Elizabeth Anne Wilkinson),Faunthorpe,29,0,1,26.0,2,2926,1,1,0,0,1
+54,55,1, Engelhart Cornelius,Ostby,65,0,0,61.9792,1,113509,1,0,1,0,0
+55,56,1, Hugh,Woolner,32,3,0,35.5,1,19947,0,1,0,0,1
+56,57,2, Emily,Rugg,21,0,1,10.5,2,C.A. 31026,0,1,0,0,1
+57,58,1, Mansouer,Novel,28,5,0,7.2292,3,2697,0,0,1,0,0
+58,59,2, Constance Mirium,West,5,0,1,27.75,2,C.A. 34651,3,1,0,0,1
+59,60,4, William Frederick,Goodwin,11,0,0,46.9,3,CA 2144,7,1,0,0,0
+60,61,1, Orsen,Sirayanian,22,0,0,7.2292,3,2669,0,0,1,0,0
+61,62,2, Amelie,Icard,38,0,1,80.0,1,113572,0,1,0,0,1
+62,63,1, Henry Birkhardt,Harris,45,0,0,83.475,1,36973,1,1,0,0,0
+63,64,4, Harald,Skoog,4,0,0,27.9,3,347088,5,1,0,0,0
+64,65,1, Albert A,Stewart,32,3,0,27.7208,1,PC 17605,0,0,1,0,0
+65,66,4, Gerios,Moubarek,4,5,0,15.2458,3,2661,2,0,1,0,1
+66,67,3, (Elizabeth Ramell),Nye,29,0,1,10.5,2,C.A. 29395,0,1,0,0,1
+67,68,1, Ernest James,Crease,19,0,0,8.1583,3,S.P. 3464,0,1,0,0,0
+68,69,2, Erna Alexandra,Andersson,17,0,1,7.925,3,3101281,6,1,0,0,1
+69,70,1, Vincenz,Kink,26,0,0,8.6625,3,315151,2,1,0,0,0
+70,71,1, Stephen Curnow,Jenkin,32,0,0,10.5,2,C.A. 33111,0,1,0,0,0
+71,72,2, Lillian Amy,Goodwin,16,0,1,46.9,3,CA 2144,7,1,0,0,0
+72,73,1, Ambrose Jr,Hood,21,0,0,73.5,2,S.O.C. 14879,0,1,0,0,0
+73,74,1, Apostolos,Chronopoulos,26,0,0,14.4542,3,2680,1,0,1,0,0
+74,75,1, Lee,Bing,32,0,0,56.4958,3,1601,0,1,0,0,1
+75,76,1, Sigurd Hansen,Moen,25,0,0,7.65,3,348123,0,1,0,0,0
+76,77,1, Ivan,Staneff,32,3,0,7.8958,3,349208,0,1,0,0,0
+77,78,1, Rahamin Haim,Moutal,32,3,0,8.05,3,374746,0,1,0,0,0
+78,79,4, Alden Gates,Caldwell,0,8,0,29.0,2,248738,2,1,0,0,1
+79,80,2, Elizabeth,Dowdell,30,0,1,12.475,3,364516,0,1,0,0,1
+80,81,1, Achille,Waelens,22,0,0,9.0,3,345767,0,1,0,0,0
+81,82,1, Jan Baptist,Sheerlinck,29,0,0,9.5,3,345779,0,1,0,0,1
+82,83,2, Brigdet Delia,McDermott,21,7,1,7.7875,3,330932,0,0,0,1,1
+83,84,1, Francisco M,Carrau,28,0,0,47.1,1,113059,0,1,0,0,0
+84,85,2, Bertha,Ilett,17,0,1,10.5,2,SO/C 14885,0,1,0,0,1
+85,86,3, Karl Alfred (Maria Mathilda Gustafsson),Backstrom,33,0,1,15.85,3,3101278,3,1,0,0,1
+86,87,1, William Neal,Ford,16,0,0,34.375,3,W./C. 6608,4,1,0,0,0
+87,88,1, Selman Francis,Slocovski,32,3,0,8.05,3,SOTON/OQ 392086,0,1,0,0,0
+88,89,2, Mabel Helen,Fortune,23,0,1,263.0,1,19950,5,1,0,0,1
+89,90,1, Francesco,Celotti,24,0,0,8.05,3,343275,0,1,0,0,0
+90,91,1, Emil,Christmann,29,0,0,8.05,3,343276,0,1,0,0,0
+91,92,1, Paul Edvin,Andreasson,20,0,0,7.8542,3,347466,0,1,0,0,0
+92,93,1, Herbert Fuller,Chaffee,46,0,0,61.175,1,W.E.P. 5734,1,1,0,0,0
+93,94,1, Bertram Frank,Dean,26,0,0,20.575,3,C.A. 2315,3,1,0,0,0
+94,95,1, Daniel,Coxon,59,0,0,7.25,3,364500,0,1,0,0,0
+95,96,1, Charles Joseph,Shorney,32,3,0,8.05,3,374910,0,1,0,0,0
+96,97,1, George B,Goldschmidt,71,0,0,34.6542,1,PC 17754,0,0,1,0,0
+97,98,1, William Bertram,Greenfield,23,0,0,63.3583,1,PC 17759,1,0,1,0,1
+98,99,3, John T (Ada Julia Bone),Doling,34,0,1,23.0,2,231919,1,1,0,0,1
+99,100,1, Sinai,Kantor,34,0,0,26.0,2,244367,1,1,0,0,0
+100,101,2, Matilda,Petranec,28,0,1,7.8958,3,349245,0,1,0,0,0
+101,102,1," Pastcho (""Pentcho"")",Petroff,32,3,0,7.8958,3,349215,0,1,0,0,0
+102,103,1, Richard Frasar,White,21,0,0,77.2875,1,35281,1,1,0,0,0
+103,104,1, Gustaf Joel,Johansson,33,0,0,8.6542,3,7540,0,1,0,0,0
+104,105,1, Anders Vilhelm,Gustafsson,37,0,0,7.925,3,3101276,2,1,0,0,0
+105,106,1, Stoytcho,Mionoff,28,0,0,7.8958,3,349207,0,1,0,0,0
+106,107,2, Anna Kristine,Salkjelsvik,21,0,1,7.65,3,343120,0,1,0,0,1
+107,108,1, Albert Johan,Moss,32,3,0,7.775,3,312991,0,1,0,0,1
+108,109,1, Tido,Rekic,38,0,0,7.8958,3,349249,0,1,0,0,0
+109,110,2, Bertha,Moran,21,7,1,24.15,3,371110,1,0,0,1,1
+110,111,1, Walter Chamberlain,Porter,47,0,0,52.0,1,110465,0,1,0,0,0
+111,112,2, Hileni,Zabour,14,5,1,14.4542,3,2665,1,0,1,0,0
+112,113,1, David John,Barton,22,0,0,8.05,3,324669,0,1,0,0,0
+113,114,2, Katriina,Jussila,20,0,1,9.825,3,4136,1,1,0,0,0
+114,115,2, Malake,Attalah,17,0,1,14.4583,3,2627,0,0,1,0,0
+115,116,1, Edvard,Pekoniemi,21,0,0,7.925,3,STON/O 2. 3101294,0,1,0,0,0
+116,117,1, Patrick,Connors,70,5,0,7.75,3,370369,0,0,0,1,0
+117,118,1, William John Robert,Turpin,29,0,0,21.0,2,11668,1,1,0,0,0
+118,119,1, Quigg Edmond,Baxter,24,0,0,247.5208,1,PC 17558,1,0,1,0,0
+119,120,2, Ellis Anna Maria,Andersson,2,0,1,31.275,3,347082,6,1,0,0,0
+120,121,1, Stanley George,Hickman,21,0,0,73.5,2,S.O.C. 14879,2,1,0,0,0
+121,122,1, Leonard Charles,Moore,32,3,0,8.05,3,A4. 54510,0,1,0,0,0
+122,123,1, Nicholas,Nasser,32,5,0,30.0708,2,237736,1,0,1,0,0
+123,124,2, Susan,Webber,32,5,1,13.0,2,27267,0,1,0,0,1
+124,125,1, Percival Wayland,White,54,0,0,77.2875,1,35281,1,1,0,0,0
+125,126,4, Elias,Nicola-Yarred,12,0,0,11.2417,3,2651,1,0,1,0,1
+126,127,1, Martin,McMahon,32,3,0,7.75,3,370372,0,0,0,1,0
+127,128,1, Fridtjof Arne,Madsen,24,0,0,7.1417,3,C 17369,0,1,0,0,1
+128,129,2, Anna,Peter,21,7,1,22.3583,3,2668,2,0,1,0,1
+129,130,1, Johan,Ekstrom,45,0,0,6.975,3,347061,0,1,0,0,0
+130,131,1, Jozef,Drazenoic,33,0,0,7.8958,3,349241,0,0,1,0,0
+131,132,1, Domingos Fernandeo,Coelho,20,0,0,7.05,3,SOTON/O.Q. 3101307,0,1,0,0,0
+132,133,3, Alexander A (Grace Charity Laury),Robins,47,0,1,14.5,3,A/5. 3337,1,1,0,0,0
+133,134,3, Leopold (Mathilde Francoise Pede),Weisz,29,0,1,26.0,2,228414,1,1,0,0,1
+134,135,1, Samuel James Hayden,Sobey,25,0,0,13.0,2,C.A. 29178,0,1,0,0,0
+135,136,1, Emile,Richard,23,0,0,15.0458,2,SC/PARIS 2133,0,0,1,0,0
+136,137,2, Helen Monypeny,Newsom,19,0,1,26.2833,1,11752,2,1,0,0,1
+137,138,1, Jacques Heath,Futrelle,37,0,0,53.1,1,113803,1,1,0,0,0
+138,139,1, Olaf Elon,Osen,16,0,0,9.2167,3,7534,0,1,0,0,0
+139,140,1, Victor,Giglio,24,0,0,79.2,1,PC 17593,0,0,1,0,0
+140,141,3, Joseph (Sultana),Boulos,35,8,1,15.2458,3,2678,2,0,1,0,0
+141,142,2, Anna Sofia,Nysten,22,0,1,7.75,3,347081,0,1,0,0,1
+142,143,3, Pekka Pietari (Elin Matilda Dolck),Hakkarainen,24,0,1,15.85,3,STON/O2. 3101279,1,1,0,0,1
+143,144,1, Jeremiah,Burke,19,0,0,6.75,3,365222,0,0,0,1,0
+144,145,1, Edgardo Samuel,Andrew,18,0,0,11.5,2,231945,0,1,0,0,0
+145,146,1, Joseph Charles,Nicholls,19,0,0,36.75,2,C.A. 33112,2,1,0,0,0
+146,147,1," August Edvard (""Wennerstrom"")",Andersson,27,0,0,7.7958,3,350043,0,1,0,0,1
+147,148,2," Robina Maggie ""Ruby""",Ford,9,0,1,34.375,3,W./C. 6608,4,1,0,0,0
+148,149,1," Michel (""Louis M Hoffman"")",Navratil,36,5,0,26.0,2,230080,2,1,0,0,0
+149,150,6, Thomas Roussel Davids,Byles,42,0,0,13.0,2,244310,0,1,0,0,0
+150,151,6, Robert James,Bateman,51,0,0,12.525,2,S.O.P. 1166,0,1,0,0,0
+151,152,3, Thomas (Edith Wearne),Pears,22,0,1,66.6,1,113776,1,1,0,0,1
+152,153,1, Alfonzo,Meo,55,5,0,8.05,3,A.5. 11206,0,1,0,0,0
+153,154,1, Austin Blyler,van Billiard,40,5,0,14.5,3,A/5. 851,2,1,0,0,0
+154,155,1, Ole Martin,Olsen,32,3,0,7.3125,3,Fa 265302,0,1,0,0,0
+155,156,1, Charles Duane,Williams,51,0,0,61.3792,1,PC 17597,1,0,1,0,0
+156,157,2," Katherine ""Katie""",Gilnagh,16,0,1,7.7333,3,35851,0,0,0,1,1
+157,158,1, Harry,Corn,30,0,0,8.05,3,SOTON/OQ 392090,0,1,0,0,0
+158,159,1, Mile,Smiljanic,32,3,0,8.6625,3,315037,0,1,0,0,0
+159,160,4, Thomas Henry,Sage,4,5,0,69.55,3,CA. 2343,10,1,0,0,0
+160,161,1, John Hatfield,Cribb,44,0,0,16.1,3,371362,1,1,0,0,0
+161,162,3," James (Elizabeth ""Bessie"" Inglis Milne)",Watt,40,0,1,15.75,2,C.A. 33595,0,1,0,0,1
+162,163,1, John Viktor,Bengtsson,26,0,0,7.775,3,347068,0,1,0,0,0
+163,164,1, Jovo,Calic,17,0,0,8.6625,3,315093,0,1,0,0,0
+164,165,4, Eino Viljami,Panula,1,0,0,39.6875,3,3101295,5,1,0,0,0
+165,166,4," Frank John William ""Frankie""",Goldsmith,9,0,0,20.525,3,363291,2,1,0,0,1
+166,167,3, (Edith Martha Bowerman),Chibnall,35,8,1,55.0,1,113505,1,1,0,0,1
+167,168,3, William (Anna Bernhardina Karlsson),Skoog,45,0,1,27.9,3,347088,5,1,0,0,0
+168,169,1, John D,Baumann,32,3,0,25.925,1,PC 17318,0,1,0,0,0
+169,170,1, Lee,Ling,28,0,0,56.4958,3,1601,0,1,0,0,0
+170,171,1, Wyckoff,Van der hoef,61,0,0,33.5,1,111240,0,1,0,0,0
+171,172,4, Arthur,Rice,4,0,0,29.125,3,382652,5,0,0,1,0
+172,173,2, Eleanor Ileen,Johnson,1,0,1,11.1333,3,347742,2,1,0,0,1
+173,174,1, Antti Wilhelm,Sivola,21,0,0,7.925,3,STON/O 2. 3101280,0,1,0,0,0
+174,175,1, James Clinch,Smith,56,0,0,30.6958,1,17764,0,0,1,0,0
+175,176,1, Klas Albin,Klasen,18,0,0,7.8542,3,350404,2,1,0,0,0
+176,177,4, Henry Forbes,Lefebre,4,5,0,25.4667,3,4133,4,1,0,0,0
+177,178,2, Ann Elizabeth,Isham,50,0,1,28.7125,1,PC 17595,0,0,1,0,0
+178,179,1, Reginald,Hale,30,0,0,13.0,2,250653,0,1,0,0,0
+179,180,1, Lionel,Leonard,36,0,0,0.0,3,LINE,0,1,0,0,0
+180,181,2, Constance Gladys,Sage,21,7,1,69.55,3,CA. 2343,10,1,0,0,0
+181,182,1, Rene,Pernot,32,3,0,15.05,2,SC/PARIS 2131,0,0,1,0,0
+182,183,4, Clarence Gustaf Hugo,Asplund,9,0,0,31.3875,3,347077,6,1,0,0,0
+183,184,4, Richard F,Becker,1,0,0,39.0,2,230136,3,1,0,0,1
+184,185,2, Luise Gretchen,Kink-Heilmann,4,0,1,22.025,3,315153,2,1,0,0,1
+185,186,1, Hugh Roscoe,Rood,32,3,0,50.0,1,113767,0,1,0,0,0
+186,187,3," Thomas (Johanna ""Hannah"" Godfrey)",O'Brien,35,8,1,15.5,3,370365,1,0,0,1,1
+187,188,1," Charles Hallace (""Mr C Rolmane"")",Romaine,45,0,0,26.55,1,111428,0,1,0,0,1
+188,189,1, John,Bourke,40,0,0,15.5,3,364849,2,0,0,1,0
+189,190,1, Stjepan,Turcin,36,0,0,7.8958,3,349247,0,1,0,0,0
+190,191,3, (Rosa),Pinsky,32,0,1,13.0,2,234604,0,1,0,0,1
+191,192,1, William,Carbines,19,0,0,13.0,2,28424,0,1,0,0,0
+192,193,2, Carla Christine Nielsine,Andersen-Jensen,19,0,1,7.8542,3,350046,1,1,0,0,1
+193,194,4, Michel M,Navratil,3,0,0,26.0,2,230080,2,1,0,0,1
+194,195,3, James Joseph (Margaret Tobin),Brown,44,0,1,27.7208,1,PC 17610,0,0,1,0,1
+195,196,2, Elise,Lurette,58,0,1,146.5208,1,PC 17569,0,0,1,0,1
+196,197,1, Robert,Mernagh,32,3,0,7.75,3,368703,0,0,0,1,0
+197,198,1, Karl Siegwart Andreas,Olsen,42,0,0,8.4042,3,4579,1,1,0,0,0
+198,199,2," Margaret ""Maggie""",Madigan,21,7,1,7.75,3,370370,0,0,0,1,1
+199,200,2," Henriette (""Mrs Harbeck"")",Yrois,24,0,1,13.0,2,248747,0,1,0,0,0
+200,201,1, Nestor Cyriel,Vande Walle,28,0,0,9.5,3,345770,0,1,0,0,0
+201,202,1, Frederick,Sage,32,3,0,69.55,3,CA. 2343,10,1,0,0,0
+202,203,1, Jakob Alfred,Johanson,34,0,0,6.4958,3,3101264,0,1,0,0,0
+203,204,1, Gerious,Youseff,45,5,0,7.225,3,2628,0,0,1,0,0
+204,205,1," Gurshon ""Gus""",Cohen,18,0,0,8.05,3,A/5 3540,0,1,0,0,1
+205,206,2, Telma Matilda,Strom,2,0,1,10.4625,3,347054,1,1,0,0,0
+206,207,1, Karl Alfred,Backstrom,32,0,0,15.85,3,3101278,1,1,0,0,0
+207,208,1, Nassef Cassem,Albimona,26,0,0,18.7875,3,2699,0,0,1,0,1
+208,209,2," Helen ""Ellen""",Carr,16,0,1,7.75,3,367231,0,0,0,1,1
+209,210,1, Henry,Blank,40,0,0,31.0,1,112277,0,0,1,0,1
+210,211,1, Ahmed,Ali,24,0,0,7.05,3,SOTON/O.Q. 3101311,0,1,0,0,0
+211,212,2, Clear Annie,Cameron,35,0,1,21.0,2,F.C.C. 13528,0,1,0,0,1
+212,213,1, John Henry,Perkin,22,0,0,7.25,3,A/5 21174,0,1,0,0,0
+213,214,1, Hans Kristensen,Givard,30,0,0,13.0,2,250646,0,1,0,0,0
+214,215,1, Philip,Kiernan,32,3,0,7.75,3,367229,1,0,0,1,0
+215,216,2, Madeleine,Newell,31,0,1,113.275,1,35273,1,0,1,0,1
+216,217,2, Eliina,Honkanen,27,0,1,7.925,3,STON/O2. 3101283,0,1,0,0,1
+217,218,1, Sidney Samuel,Jacobsohn,42,0,0,27.0,2,243847,1,1,0,0,0
+218,219,2, Albina,Bazzani,32,0,1,76.2917,1,11813,0,0,1,0,1
+219,220,1, Walter,Harris,30,0,0,10.5,2,W/C 14208,0,1,0,0,0
+220,221,1, Victor Francis,Sunderland,16,0,0,8.05,3,SOTON/OQ 392089,0,1,0,0,1
+221,222,1, James H,Bracken,27,0,0,13.0,2,220367,0,1,0,0,0
+222,223,1, George Henry,Green,51,0,0,8.05,3,21440,0,1,0,0,0
+223,224,1, Christo,Nenkoff,32,3,0,7.8958,3,349234,0,1,0,0,0
+224,225,1, Frederick Maxfield,Hoyt,38,0,0,90.0,1,19943,1,1,0,0,1
+225,226,1, Karl Ivar Sven,Berglund,22,0,0,9.35,3,PP 4348,0,1,0,0,0
+226,227,1, William John,Mellors,19,0,0,10.5,2,SW/PP 751,0,1,0,0,1
+227,228,1," John Hall (""Henry"")",Lovell,20,5,0,7.25,3,A/5 21173,0,1,0,0,0
+228,229,1, Arne Jonas,Fahlstrom,18,0,0,13.0,2,236171,0,1,0,0,0
+229,230,2, Mathilde,Lefebre,21,7,1,25.4667,3,4133,4,1,0,0,0
+230,231,3, Henry Birkhardt (Irene Wallach),Harris,35,0,1,83.475,1,36973,1,1,0,0,1
+231,232,1, Bengt Edvin,Larsson,29,0,0,7.775,3,347067,0,1,0,0,0
+232,233,1, Ernst Adolf,Sjostedt,59,0,0,13.5,2,237442,0,1,0,0,0
+233,234,2, Lillian Gertrud,Asplund,5,0,1,31.3875,3,347077,6,1,0,0,1
+234,235,1, Robert William Norman,Leyson,24,0,0,10.5,2,C.A. 29566,0,1,0,0,0
+235,236,2, Alice Phoebe,Harknett,21,7,1,7.55,3,W./C. 6609,0,1,0,0,0
+236,237,1, Stephen,Hold,44,0,0,26.0,2,26707,1,1,0,0,0
+237,238,2," Marjorie ""Lottie""",Collyer,8,0,1,26.25,2,C.A. 31921,2,1,0,0,1
+238,239,1, Frederick William,Pengelly,19,0,0,10.5,2,28665,0,1,0,0,0
+239,240,1, George Henry,Hunt,33,0,0,12.275,2,SCO/W 1585,0,1,0,0,0
+240,241,2, Thamine,Zabour,21,7,1,14.4542,3,2665,1,0,1,0,0
+241,242,2," Katherine ""Kate""",Murphy,21,7,1,15.5,3,367230,1,0,0,1,1
+242,243,1, Reginald Charles,Coleridge,29,0,0,10.5,2,W./C. 14263,0,1,0,0,0
+243,244,1, Matti Alexanteri,Maenpaa,22,0,0,7.125,3,STON/O 2. 3101275,0,1,0,0,0
+244,245,1, Sleiman,Attalah,30,0,0,7.225,3,2694,0,0,1,0,0
+245,246,5, William Edward,Minahan,44,0,0,90.0,1,19928,2,0,0,1,0
+246,247,2, Agda Thorilda Viktoria,Lindahl,25,0,1,7.775,3,347071,0,1,0,0,0
+247,248,3, William (Anna),Hamalainen,24,0,1,14.5,2,250649,2,1,0,0,1
+248,249,1, Richard Leonard,Beckwith,37,0,0,52.5542,1,11751,2,1,0,0,1
+249,250,6, Ernest Courtenay,Carter,54,0,0,26.0,2,244252,1,1,0,0,0
+250,251,1, James George,Reed,32,3,0,7.25,3,362316,0,1,0,0,0
+251,252,3, Wilhelm (Elna Matilda Persson),Strom,29,0,1,10.4625,3,347054,2,1,0,0,0
+252,253,1, William Thomas,Stead,62,0,0,26.55,1,113514,0,1,0,0,0
+253,254,1, William Arthur,Lobb,30,0,0,16.1,3,A/5. 3336,1,1,0,0,0
+254,255,3, Viktor (Helena Wilhelmina),Rosblom,41,0,1,20.2125,3,370129,2,1,0,0,0
+255,256,3, Darwis (Hanne Youssef Razi),Touma,29,0,1,15.2458,3,2650,2,0,1,0,1
+256,257,3, Gertrude Maybelle,Thorne,35,8,1,79.2,1,PC 17585,0,0,1,0,1
+257,258,2, Gladys,Cherry,30,0,1,86.5,1,110152,0,1,0,0,1
+258,259,2, Anna,Ward,35,0,1,512.3292,1,PC 17755,0,0,1,0,1
+259,260,3, (Lutie Davis),Parrish,50,0,1,26.0,2,230433,1,1,0,0,1
+260,261,1, Thomas,Smith,32,3,0,7.75,3,384461,0,0,0,1,0
+261,262,4, Edvin Rojj Felix,Asplund,3,0,0,31.3875,3,347077,6,1,0,0,1
+262,263,1, Emil,Taussig,52,0,0,79.65,1,110413,2,1,0,0,0
+263,264,1, William,Harrison,40,0,0,0.0,1,112059,0,1,0,0,0
+264,265,2, Delia,Henry,21,7,1,7.75,3,382649,0,0,0,1,0
+265,266,1, David,Reeves,36,0,0,10.5,2,C.A. 17248,0,1,0,0,0
+266,267,1, Ernesti Arvid,Panula,16,0,0,39.6875,3,3101295,5,1,0,0,0
+267,268,1, Ernst Ulrik,Persson,25,0,0,7.775,3,347083,1,1,0,0,1
+268,269,3, William Thompson (Edith Junkins),Graham,58,0,1,153.4625,1,PC 17582,1,1,0,0,1
+269,270,2, Amelia,Bissette,35,0,1,135.6333,1,PC 17760,0,1,0,0,1
+270,271,1, Alexander,Cairns,32,3,0,31.0,1,113798,0,1,0,0,0
+271,272,1, William Henry,Tornquist,25,0,0,0.0,3,LINE,0,1,0,0,1
+272,273,3, (Elizabeth Anne Maidment),Mellinger,41,0,1,19.5,2,250644,1,1,0,0,1
+273,274,1, Charles H,Natsch,37,0,0,29.7,1,PC 17596,1,0,1,0,0
+274,275,2," Hanora ""Nora""",Healy,21,7,1,7.75,3,370375,0,0,0,1,1
+275,276,2, Kornelia Theodosia,Andrews,63,0,1,77.9583,1,13502,1,1,0,0,1
+276,277,2, Augusta Charlotta,Lindblom,45,0,1,7.75,3,347073,0,1,0,0,0
+277,278,1," Francis ""Frank""",Parkes,32,3,0,0.0,2,239853,0,1,0,0,0
+278,279,4, Eric,Rice,7,0,0,29.125,3,382652,5,0,0,1,0
+279,280,3, Stanton (Rosa Hunt),Abbott,35,0,1,20.25,3,C.A. 2673,2,1,0,0,1
+280,281,1, Frank,Duane,65,0,0,7.75,3,336439,0,0,0,1,0
+281,282,1, Nils Johan Goransson,Olsson,28,0,0,7.8542,3,347464,0,1,0,0,0
+282,283,1, Alfons,de Pelsmaeker,16,0,0,9.5,3,345778,0,1,0,0,0
+283,284,1, Edward Arthur,Dorking,19,0,0,8.05,3,A/5. 10482,0,1,0,0,1
+284,285,1, Richard William,Smith,32,3,0,26.0,1,113056,0,1,0,0,0
+285,286,1, Ivan,Stankovic,33,0,0,8.6625,3,349239,0,0,1,0,0
+286,287,1, Theodore,de Mulder,30,0,0,9.5,3,345774,0,1,0,0,1
+287,288,1, Penko,Naidenoff,22,0,0,7.8958,3,349206,0,1,0,0,0
+288,289,1, Masabumi,Hosono,42,0,0,13.0,2,237798,0,1,0,0,1
+289,290,2, Kate,Connolly,22,0,1,7.75,3,370373,0,0,0,1,1
+290,291,2," Ellen ""Nellie""",Barber,26,0,1,78.85,1,19877,0,1,0,0,1
+291,292,3, Dickinson H (Helen Walton),Bishop,19,0,1,91.0792,1,11967,1,0,1,0,1
+292,293,1, Rene Jacques,Levy,36,0,0,12.875,2,SC/Paris 2163,0,0,1,0,0
+293,294,2, Aloisia,Haas,24,0,1,8.85,3,349236,0,1,0,0,0
+294,295,1, Ivan,Mineff,24,0,0,7.8958,3,349233,0,1,0,0,0
+295,296,1, Ervin G,Lewy,32,3,0,27.7208,1,PC 17612,0,0,1,0,0
+296,297,1, Mansour,Hanna,23,5,0,7.2292,3,2693,0,0,1,0,0
+297,298,2, Helen Loraine,Allison,2,0,1,151.55,1,113781,3,1,0,0,0
+298,299,1, Adolphe,Saalfeld,32,3,0,30.5,1,19988,0,1,0,0,1
+299,300,3, James (Helene DeLaudeniere Chaput),Baxter,50,0,1,247.5208,1,PC 17558,1,0,1,0,1
+300,301,2," Anna Katherine ""Annie Kate""",Kelly,21,7,1,7.75,3,9234,0,0,0,1,1
+301,302,1, Bernard,McCoy,32,3,0,23.25,3,367226,2,0,0,1,1
+302,303,1, William Cahoone Jr,Johnson,19,0,0,0.0,3,LINE,0,1,0,0,0
+303,304,2, Nora A,Keane,21,7,1,12.35,2,226593,0,0,0,1,1
+304,305,1," Howard Hugh ""Harry""",Williams,32,3,0,8.05,3,A/5 2466,0,1,0,0,0
+305,306,4, Hudson Trevor,Allison,0,9,0,151.55,1,113781,3,1,0,0,1
+306,307,2, Margaret,Fleming,21,7,1,110.8833,1,17421,0,0,1,0,1
+307,308,3, Victor de Satode (Maria Josefa Perez de Soto y Vallejo),Penasco y Castellana,17,0,1,108.9,1,PC 17758,1,0,1,0,1
+308,309,1, Samuel,Abelson,30,0,0,24.0,2,P/PP 3381,1,0,1,0,0
+309,310,2, Laura Mabel,Francatelli,30,0,1,56.9292,1,PC 17485,0,0,1,0,1
+310,311,2, Margaret Bechstein,Hays,24,0,1,83.1583,1,11767,0,0,1,0,1
+311,312,2, Emily Borie,Ryerson,18,0,1,262.375,1,PC 17608,4,0,1,0,1
+312,313,3, William (Anna Sylfven),Lahtinen,26,0,1,26.0,2,250651,2,1,0,0,0
+313,314,1, Ignjac,Hendekovic,28,0,0,7.8958,3,349243,0,1,0,0,0
+314,315,1, Benjamin,Hart,43,0,0,26.25,2,F.C.C. 13529,2,1,0,0,0
+315,316,2, Helmina Josefina,Nilsson,26,0,1,7.8542,3,347470,0,1,0,0,1
+316,317,3, Sinai (Miriam Sternin),Kantor,24,0,1,26.0,2,244367,1,1,0,0,1
+317,318,5, Ernest,Moraweck,54,0,0,14.0,2,29011,0,1,0,0,0
+318,319,2, Mary Natalie,Wick,31,0,1,164.8667,1,36928,2,1,0,0,1
+319,320,3, Frederic Oakley (Margaretta Corning Stone),Spedden,40,0,1,134.5,1,16966,2,0,1,0,1
+320,321,1, Samuel,Dennis,22,0,0,7.25,3,A/5 21172,0,1,0,0,0
+321,322,1, Yoto,Danoff,27,0,0,7.8958,3,349219,0,1,0,0,0
+322,323,2, Hilda Mary,Slayter,30,0,1,12.35,2,234818,0,0,0,1,1
+323,324,3, Albert Francis (Sylvia Mae Harbaugh),Caldwell,22,0,1,29.0,2,248738,2,1,0,0,1
+324,325,1, George John Jr,Sage,32,3,0,69.55,3,CA. 2343,10,1,0,0,0
+325,326,2, Marie Grice,Young,36,0,1,135.6333,1,PC 17760,0,0,1,0,1
+326,327,1, Johan Hansen,Nysveen,61,0,0,6.2375,3,345364,0,1,0,0,0
+327,328,3, (Ada E Hall),Ball,36,0,1,13.0,2,28551,0,1,0,0,1
+328,329,3, Frank John (Emily Alice Brown),Goldsmith,31,0,1,20.525,3,363291,2,1,0,0,1
+329,330,2, Jean Gertrude,Hippach,16,0,1,57.9792,1,111361,1,0,1,0,1
+330,331,2, Agnes,McCoy,21,7,1,23.25,3,367226,2,0,0,1,1
+331,332,1, Austen,Partner,45,5,0,28.5,1,113043,0,1,0,0,0
+332,333,1, George Edward,Graham,38,0,0,153.4625,1,PC 17582,1,1,0,0,0
+333,334,1, Leo Edmondus,Vander Planke,16,0,0,18.0,3,345764,2,1,0,0,0
+334,335,3, Henry William (Clara Heinsheimer),Frauenthal,35,8,1,133.65,1,PC 17611,1,1,0,0,1
+335,336,1, Mitto,Denkoff,32,3,0,7.8958,3,349225,0,1,0,0,0
+336,337,1, Thomas Clinton,Pears,29,0,0,66.6,1,113776,1,1,0,0,0
+337,338,2, Elizabeth Margaret,Burns,41,0,1,134.5,1,16966,0,0,1,0,1
+338,339,1, Karl Edwart,Dahl,45,0,0,8.05,3,7598,0,1,0,0,1
+339,340,1, Stephen Weart,Blackwell,45,0,0,35.5,1,113784,0,1,0,0,0
+340,341,4, Edmond Roger,Navratil,2,0,0,26.0,2,230080,2,1,0,0,1
+341,342,2, Alice Elizabeth,Fortune,24,0,1,263.0,1,19950,5,1,0,0,1
+342,343,1, Erik Gustaf,Collander,28,0,0,13.0,2,248740,0,1,0,0,0
+343,344,1, Charles Frederick Waddington,Sedgwick,25,0,0,13.0,2,244361,0,1,0,0,0
+344,345,1, Stanley Hubert,Fox,36,0,0,13.0,2,229236,0,1,0,0,0
+345,346,2," Amelia ""Mildred""",Brown,24,0,1,13.0,2,248733,0,1,0,0,1
+346,347,2, Marion Elsie,Smith,40,0,1,13.0,2,31418,0,1,0,0,1
+347,348,3, Thomas Henry (Mary E Finck),Davison,35,8,1,16.1,3,386525,1,1,0,0,1
+348,349,4," William Loch ""William""",Coutts,3,0,0,15.9,3,C.A. 37671,2,1,0,0,1
+349,350,1, Jovan,Dimic,42,0,0,8.6625,3,315088,0,1,0,0,0
+350,351,1, Nils Martin,Odahl,23,0,0,9.225,3,7267,0,1,0,0,0
+351,352,1, Fletcher Fellows,Williams-Lambert,32,3,0,35.0,1,113510,0,1,0,0,0
+352,353,1, Tannous,Elias,15,0,0,7.2292,3,2695,2,0,1,0,0
+353,354,1, Josef,Arnold-Franchi,25,0,0,17.8,3,349237,1,1,0,0,0
+354,355,1, Wazli,Yousif,32,3,0,7.225,3,2647,0,0,1,0,0
+355,356,1, Leo Peter,Vanden Steen,28,0,0,9.5,3,345783,0,1,0,0,0
+356,357,2, Elsie Edith,Bowerman,22,0,1,55.0,1,113505,1,1,0,0,1
+357,358,2, Annie Clemmer,Funk,38,0,1,13.0,2,237671,0,1,0,0,0
+358,359,2, Mary,McGovern,21,7,1,7.8792,3,330931,0,0,0,1,1
+359,360,2," Helen Mary ""Ellie""",Mockler,21,7,1,7.8792,3,330980,0,0,0,1,1
+360,361,1, Wilhelm,Skoog,40,0,0,27.9,3,347088,5,1,0,0,0
+361,362,1, Sebastiano,del Carlo,29,0,0,27.7208,2,SC/PARIS 2167,1,0,1,0,0
+362,363,3, (Catherine David),Barbara,45,0,1,14.4542,3,2691,1,0,1,0,0
+363,364,1, Adola,Asim,35,0,0,7.05,3,SOTON/O.Q. 3101310,0,1,0,0,0
+364,365,1, Thomas,O'Brien,32,3,0,15.5,3,370365,1,0,0,1,0
+365,366,1, Mauritz Nils Martin,Adahl,30,0,0,7.25,3,C 7076,0,1,0,0,0
+366,367,3, Frank Manley (Anna Sophia Atkinson),Warren,60,0,1,75.25,1,110813,1,0,1,0,1
+367,368,3, (Mantoura Boulos),Moussa,35,8,1,7.2292,3,2626,0,0,1,0,1
+368,369,2, Annie,Jermyn,21,7,1,7.75,3,14313,0,0,0,1,1
+369,370,8, Leontine Pauline,Aubart,24,0,1,69.3,1,PC 17477,0,0,1,0,1
+370,371,1, George Achilles,Harder,25,0,0,55.4417,1,11765,1,0,1,0,1
+371,372,1, Jakob Alfred,Wiklund,18,0,0,6.4958,3,3101267,1,1,0,0,0
+372,373,1, William Thomas,Beavan,19,0,0,8.05,3,323951,0,1,0,0,0
+373,374,1, Sante,Ringhini,22,0,0,135.6333,1,PC 17760,0,0,1,0,0
+374,375,2, Stina Viola,Palsson,3,0,1,21.075,3,349909,4,1,0,0,0
+375,376,3, Edgar Joseph (Leila Saks),Meyer,35,8,1,82.1708,1,PC 17604,1,0,1,0,1
+376,377,2, Aurora Adelia,Landergren,22,0,1,7.25,3,C 7077,0,1,0,0,1
+377,378,1, Harry Elkins,Widener,27,0,0,211.5,1,113503,2,0,1,0,0
+378,379,1, Tannous,Betros,20,0,0,4.0125,3,2648,0,0,1,0,0
+379,380,1, Karl Gideon,Gustafsson,19,0,0,7.775,3,347069,0,1,0,0,0
+380,381,2, Rosalie,Bidois,42,0,1,227.525,1,PC 17757,0,0,1,0,1
+381,382,2," Maria (""Mary"")",Nakid,1,0,1,15.7417,3,2653,2,0,1,0,1
+382,383,1, Juho,Tikkanen,32,0,0,7.925,3,STON/O 2. 3101293,0,1,0,0,0
+383,384,3, Alexander Oskar (Mary Aline Towner),Holverson,35,0,1,52.0,1,113789,1,1,0,0,1
+384,385,1, Vasil,Plotcharsky,32,3,0,7.8958,3,349227,0,1,0,0,0
+385,386,1, Charles Henry,Davies,18,0,0,73.5,2,S.O.C. 14879,0,1,0,0,0
+386,387,4, Sidney Leonard,Goodwin,1,0,0,46.9,3,CA 2144,7,1,0,0,0
+387,388,2, Kate,Buss,36,0,1,13.0,2,27849,0,1,0,0,1
+388,389,1, Matthew,Sadlier,32,3,0,7.7292,3,367655,0,0,0,1,0
+389,390,2, Bertha,Lehmann,17,0,1,12.0,2,SC 1748,0,0,1,0,1
+390,391,1, William Ernest,Carter,36,0,0,120.0,1,113760,3,1,0,0,1
+391,392,1, Carl Olof,Jansson,21,0,0,7.7958,3,350034,0,1,0,0,1
+392,393,1, Johan Birger,Gustafsson,28,0,0,7.925,3,3101277,2,1,0,0,0
+393,394,2, Marjorie,Newell,23,0,1,113.275,1,35273,1,0,1,0,1
+394,395,3, Hjalmar (Agnes Charlotta Bengtsson),Sandstrom,24,0,1,16.7,3,PP 9549,2,1,0,0,1
+395,396,1, Erik,Johansson,22,0,0,7.7958,3,350052,0,1,0,0,0
+396,397,2, Elina,Olsson,31,0,1,7.8542,3,350407,0,1,0,0,0
+397,398,1, Peter David,McKane,46,0,0,26.0,2,28403,0,1,0,0,0
+398,399,5, Alfred,Pain,23,0,0,10.5,2,244278,0,1,0,0,0
+399,400,3, William H (Jessie L),Trout,28,0,1,12.65,2,240929,0,1,0,0,1
+400,401,1, Juha,Niskanen,39,0,0,7.925,3,STON/O 2. 3101289,0,1,0,0,1
+401,402,1, John,Adams,26,0,0,8.05,3,341826,0,1,0,0,0
+402,403,2, Mari Aina,Jussila,21,0,1,9.825,3,4137,1,1,0,0,0
+403,404,1, Pekka Pietari,Hakkarainen,28,0,0,15.85,3,STON/O2. 3101279,1,1,0,0,0
+404,405,2, Marija,Oreskovic,20,0,1,8.6625,3,315096,0,1,0,0,0
+405,406,1, Shadrach,Gale,34,0,0,21.0,2,28664,1,1,0,0,0
+406,407,1, Carl/Charles Peter,Widegren,51,0,0,7.75,3,347064,0,1,0,0,0
+407,408,4, William Rowe,Richards,3,0,0,18.75,2,29106,2,1,0,0,1
+408,409,1, Hans Martin Monsen,Birkeland,21,0,0,7.775,3,312992,0,1,0,0,0
+409,410,2, Ida,Lefebre,21,7,1,25.4667,3,4133,4,1,0,0,0
+410,411,1, Todor,Sdycoff,32,3,0,7.8958,3,349222,0,1,0,0,0
+411,412,1, Henry,Hart,32,3,0,6.8583,3,394140,0,0,0,1,0
+412,413,2, Daisy E,Minahan,33,0,1,90.0,1,19928,1,0,0,1,1
+413,414,1, Alfred Fleming,Cunningham,32,3,0,0.0,2,239853,0,1,0,0,0
+414,415,1, Johan Julian,Sundman,44,0,0,7.925,3,STON/O 2. 3101269,0,1,0,0,1
+415,416,3, Thomas (Annie Louise Rowley),Meek,35,8,1,8.05,3,343095,0,1,0,0,0
+416,417,3, James Vivian (Lulu Thorne Christian),Drew,34,0,1,32.5,2,28220,2,1,0,0,1
+417,418,2, Lyyli Karoliina,Silven,18,0,1,13.0,2,250652,2,1,0,0,1
+418,419,1, William John,Matthews,30,0,0,13.0,2,28228,0,1,0,0,0
+419,420,2, Catharina,Van Impe,10,0,1,24.15,3,345773,2,1,0,0,0
+420,421,1, Stanio,Gheorgheff,32,3,0,7.8958,3,349254,0,0,1,0,0
+421,422,1, David,Charters,21,0,0,7.7333,3,A/5. 13032,0,0,0,1,0
+422,423,1, Leo,Zimmerman,29,0,0,7.875,3,315082,0,1,0,0,0
+423,424,3, Ernst Gilbert (Anna Sigrid Maria Brogren),Danbom,28,0,1,14.4,3,347080,2,1,0,0,0
+424,425,1, Viktor Richard,Rosblom,18,0,0,20.2125,3,370129,2,1,0,0,0
+425,426,1, Phillippe,Wiseman,32,3,0,7.25,3,A/4. 34244,0,1,0,0,0
+426,427,3, Charles V (Ada Maria Winfield),Clarke,28,0,1,26.0,2,2003,1,1,0,0,1
+427,428,2," Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Phillips,19,0,1,26.0,2,250655,0,1,0,0,1
+428,429,1, James,Flynn,32,3,0,7.75,3,364851,0,0,0,1,0
+429,430,1, Berk (Berk Trembisky),Pickard,32,0,0,8.05,3,SOTON/O.Q. 392078,0,1,0,0,1
+430,431,1, Mauritz Hakan,Bjornstrom-Steffansson,28,0,0,26.55,1,110564,0,1,0,0,1
+431,432,3, Percival (Florence Kate White),Thorneycroft,35,8,1,16.1,3,376564,1,1,0,0,1
+432,433,3, Charles Alexander (Alice Adelaide Slow),Louch,42,0,1,26.0,2,SC/AH 3085,1,1,0,0,1
+433,434,1, Nikolai Erland,Kallio,17,0,0,7.125,3,STON/O 2. 3101274,0,1,0,0,0
+434,435,1, William Baird,Silvey,50,0,0,55.9,1,13507,1,1,0,0,0
+435,436,2, Lucile Polk,Carter,14,0,1,120.0,1,113760,3,1,0,0,1
+436,437,2," Doolina Margaret ""Daisy""",Ford,21,0,1,34.375,3,W./C. 6608,4,1,0,0,0
+437,438,3, Sidney (Emily Hocking),Richards,24,0,1,18.75,2,29106,5,1,0,0,1
+438,439,1, Mark,Fortune,64,0,0,263.0,1,19950,5,1,0,0,0
+439,440,1, Johan Henrik Johannesson,Kvillner,31,0,0,10.5,2,C.A. 18723,0,1,0,0,0
+440,441,3, Benjamin (Esther Ada Bloomfield),Hart,45,0,1,26.25,2,F.C.C. 13529,2,1,0,0,1
+441,442,1, Leon,Hampe,20,0,0,9.5,3,345769,0,1,0,0,0
+442,443,1, Johan Emil,Petterson,25,0,0,7.775,3,347076,1,1,0,0,0
+443,444,8, Encarnacion,Reynaldo,28,0,1,13.0,2,230434,0,1,0,0,1
+444,445,1, Bernt,Johannesen-Bratthammer,32,3,0,8.1125,3,65306,0,1,0,0,1
+445,446,4, Washington,Dodge,4,0,0,81.8583,1,33638,2,1,0,0,1
+446,447,2, Madeleine Violet,Mellinger,13,0,1,19.5,2,250644,1,1,0,0,1
+447,448,1, Frederic Kimber,Seward,34,0,0,26.55,1,113794,0,1,0,0,1
+448,449,2, Marie Catherine,Baclini,5,0,1,19.2583,3,2666,3,0,1,0,1
+449,450,7, Arthur Godfrey,Peuchen,52,0,0,30.5,1,113786,0,1,0,0,1
+450,451,1, Edwy Arthur,West,36,0,0,27.75,2,C.A. 34651,3,1,0,0,0
+451,452,1, Ingvald Olai Olsen,Hagland,32,3,0,19.9667,3,65303,1,1,0,0,0
+452,453,1, Benjamin Laventall,Foreman,30,0,0,27.75,1,113051,0,0,1,0,0
+453,454,1, Samuel L,Goldenberg,49,0,0,89.1042,1,17453,1,0,1,0,1
+454,455,1, Joseph,Peduzzi,32,3,0,8.05,3,A/5 2817,0,1,0,0,0
+455,456,1, Ivan,Jalsevac,29,0,0,7.8958,3,349240,0,0,1,0,1
+456,457,1, Francis Davis,Millet,65,0,0,26.55,1,13509,0,1,0,0,0
+457,458,3, Frederick R (Marion),Kenyon,35,8,1,51.8625,1,17464,1,1,0,0,1
+458,459,2, Ellen,Toomey,50,0,1,10.5,2,F.C.C. 13531,0,1,0,0,1
+459,460,1, Maurice,O'Connor,32,3,0,7.75,3,371060,0,0,0,1,0
+460,461,1, Harry,Anderson,48,0,0,26.55,1,19952,0,1,0,0,1
+461,462,1, William,Morley,34,0,0,8.05,3,364506,0,1,0,0,0
+462,463,1, Arthur H,Gee,47,0,0,38.5,1,111320,0,1,0,0,0
+463,464,1, Jacob Christian,Milling,48,0,0,13.0,2,234360,0,1,0,0,0
+464,465,1, Simon,Maisner,32,3,0,8.05,3,A/S 2816,0,1,0,0,0
+465,466,1, Manuel Estanslas,Goncalves,38,0,0,7.05,3,SOTON/O.Q. 3101306,0,1,0,0,0
+466,467,1, William,Campbell,32,3,0,0.0,2,239853,0,1,0,0,0
+467,468,1, John Montgomery,Smart,56,0,0,26.55,1,113792,0,1,0,0,0
+468,469,1, James,Scanlan,32,3,0,7.725,3,36209,0,0,0,1,0
+469,470,2, Helene Barbara,Baclini,0,7,1,19.2583,3,2666,3,0,1,0,1
+470,471,1, Arthur,Keefe,32,3,0,7.25,3,323592,0,1,0,0,0
+471,472,1, Luka,Cacic,38,0,0,8.6625,3,315089,0,1,0,0,0
+472,473,3, Edwy Arthur (Ada Mary Worth),West,33,0,1,27.75,2,C.A. 34651,3,1,0,0,1
+473,474,3, Amin S (Marie Marthe Thuillard),Jerwan,23,0,1,13.7917,2,SC/AH Basle 541,0,0,1,0,1
+474,475,2, Ida Sofia,Strandberg,22,0,1,9.8375,3,7553,0,1,0,0,0
+475,476,1, George Quincy,Clifford,32,3,0,52.0,1,110465,0,1,0,0,0
+476,477,1, Peter Henry,Renouf,34,0,0,21.0,2,31027,1,1,0,0,0
+477,478,1, Lewis Richard,Braund,29,0,0,7.0458,3,3460,1,1,0,0,0
+478,479,1, Nils August,Karlsson,22,0,0,7.5208,3,350060,0,1,0,0,0
+479,480,2, Hildur E,Hirvonen,2,0,1,12.2875,3,3101298,1,1,0,0,1
+480,481,4, Harold Victor,Goodwin,9,0,0,46.9,3,CA 2144,7,1,0,0,0
+481,482,1," Anthony Wood ""Archie""",Frost,32,3,0,0.0,2,239854,0,1,0,0,0
+482,483,1, Richard Henry,Rouse,50,0,0,8.05,3,A/5 3594,0,1,0,0,0
+483,484,3, (Hedwig),Turkula,63,0,1,9.5875,3,4134,0,1,0,0,1
+484,485,1, Dickinson H,Bishop,25,0,0,91.0792,1,11967,1,0,1,0,1
+485,486,2, Jeannie,Lefebre,21,7,1,25.4667,3,4133,4,1,0,0,0
+486,487,3, Frederick Maxfield (Jane Anne Forby),Hoyt,35,0,1,90.0,1,19943,1,1,0,0,1
+487,488,1, Edward Austin,Kent,58,0,0,29.7,1,11771,0,0,1,0,0
+488,489,1, Francis William,Somerton,30,0,0,8.05,3,A.5. 18509,0,1,0,0,0
+489,490,4," Eden Leslie ""Neville""",Coutts,9,0,0,15.9,3,C.A. 37671,2,1,0,0,1
+490,491,1, Konrad Mathias Reiersen,Hagland,32,3,0,19.9667,3,65304,1,1,0,0,0
+491,492,1, Einar,Windelov,21,0,0,7.25,3,SOTON/OQ 3101317,0,1,0,0,0
+492,493,1, Harry Markland,Molson,55,0,0,30.5,1,113787,0,1,0,0,0
+493,494,1, Ramon,Artagaveytia,71,0,0,49.5042,1,PC 17609,0,0,1,0,0
+494,495,1, Edward Roland,Stanley,21,0,0,8.05,3,A/4 45380,0,1,0,0,0
+495,496,1, Gerious,Yousseff,32,3,0,14.4583,3,2627,0,0,1,0,0
+496,497,2, Elizabeth Mussey,Eustis,54,0,1,78.2667,1,36947,1,0,1,0,1
+497,498,1, Frederick William,Shellard,32,3,0,15.1,3,C.A. 6212,0,1,0,0,0
+498,499,3, Hudson J C (Bessie Waldo Daniels),Allison,25,0,1,151.55,1,113781,3,1,0,0,0
+499,500,1, Olof,Svensson,24,0,0,7.7958,3,350035,0,1,0,0,0
+500,501,1, Petar,Calic,17,0,0,8.6625,3,315086,0,1,0,0,0
+501,502,2, Mary,Canavan,21,0,1,7.75,3,364846,0,0,0,1,0
+502,503,2, Bridget Mary,O'Sullivan,21,7,1,7.6292,3,330909,0,0,0,1,0
+503,504,2, Kristina Sofia,Laitinen,37,0,1,9.5875,3,4135,0,1,0,0,0
+504,505,2, Roberta,Maioni,16,0,1,86.5,1,110152,0,1,0,0,1
+505,506,1, Victor de Satode,Penasco y Castellana,18,0,0,108.9,1,PC 17758,1,0,1,0,0
+506,507,3, Frederick Charles (Jane Richards),Quick,33,0,1,26.0,2,26360,2,1,0,0,1
+507,508,1," George (""George Arthur Brayton"")",Bradley,32,3,0,26.55,1,111427,0,1,0,0,1
+508,509,1, Henry Margido,Olsen,28,0,0,22.525,3,C 4001,0,1,0,0,0
+509,510,1, Fang,Lang,26,0,0,56.4958,3,1601,0,1,0,0,1
+510,511,1, Eugene Patrick,Daly,29,0,0,7.75,3,382651,0,0,0,1,1
+511,512,1, James,Webber,32,3,0,8.05,3,SOTON/OQ 3101316,0,1,0,0,0
+512,513,1, James Robert,McGough,36,0,0,26.2875,1,PC 17473,0,1,0,0,1
+513,514,3, Martin (Elizabeth L. Barrett),Rothschild,54,0,1,59.4,1,PC 17603,1,0,1,0,1
+514,515,1, Satio,Coleff,24,0,0,7.4958,3,349209,0,1,0,0,0
+515,516,1, William Anderson,Walker,47,0,0,34.0208,1,36967,0,1,0,0,0
+516,517,3, (Amelia Milley),Lemore,34,0,1,10.5,2,C.A. 34260,0,1,0,0,1
+517,518,1, Patrick,Ryan,32,3,0,24.15,3,371110,0,0,0,1,0
+518,519,3," William A (Florence ""Mary"" Agnes Hughes)",Angle,36,0,1,26.0,2,226875,1,1,0,0,1
+519,520,1, Stefo,Pavlovic,32,0,0,7.8958,3,349242,0,1,0,0,0
+520,521,2, Anne,Perreault,30,0,1,93.5,1,12749,0,1,0,0,1
+521,522,1, Janko,Vovk,22,0,0,7.8958,3,349252,0,1,0,0,0
+522,523,1, Sarkis,Lahoud,32,3,0,7.225,3,2624,0,0,1,0,0
+523,524,3, Louis Albert (Ida Sophia Fischer),Hippach,44,0,1,57.9792,1,111361,1,0,1,0,1
+524,525,1, Fared,Kassem,32,3,0,7.2292,3,2700,0,0,1,0,0
+525,526,1, James,Farrell,40,5,0,7.75,3,367232,0,0,0,1,0
+526,527,2, Lucy,Ridsdale,50,0,1,10.5,2,W./C. 14258,0,1,0,0,1
+527,528,1, John,Farthing,32,3,0,221.7792,1,PC 17483,0,1,0,0,0
+528,529,1, Johan Werner,Salonen,39,0,0,7.925,3,3101296,0,1,0,0,0
+529,530,1, Richard George,Hocking,23,0,0,11.5,2,29104,3,1,0,0,0
+530,531,2, Phyllis May,Quick,2,0,1,26.0,2,26360,2,1,0,0,1
+531,532,1, Nakli,Toufik,32,3,0,7.2292,3,2641,0,0,1,0,0
+532,533,1, Joseph Jr,Elias,17,0,0,7.2292,3,2690,2,0,1,0,0
+533,534,3, Catherine (Catherine Rizk),Peter,35,8,1,22.3583,3,2668,2,0,1,0,1
+534,535,2, Marija,Cacic,30,0,1,8.6625,3,315084,0,1,0,0,0
+535,536,2, Eva Miriam,Hart,7,0,1,26.25,2,F.C.C. 13529,2,1,0,0,1
+536,537,7, Archibald Willingham,Butt,45,0,0,26.55,1,113050,0,1,0,0,0
+537,538,2, Bertha,LeRoy,30,0,1,106.425,1,PC 17761,0,0,1,0,1
+538,539,1, Samuel Beard,Risien,32,3,0,14.5,3,364498,0,1,0,0,0
+539,540,2, Hedwig Margaritha,Frolicher,22,0,1,49.5,1,13568,2,0,1,0,1
+540,541,2, Harriet R,Crosby,36,0,1,71.0,1,WE/P 5735,2,1,0,0,1
+541,542,2, Ingeborg Constanzia,Andersson,9,0,1,31.275,3,347082,6,1,0,0,0
+542,543,2, Sigrid Elisabeth,Andersson,11,0,1,31.275,3,347082,6,1,0,0,0
+543,544,1, Edward,Beane,32,0,0,26.0,2,2908,1,1,0,0,1
+544,545,1, Walter Donald,Douglas,50,0,0,106.425,1,PC 17761,1,0,1,0,0
+545,546,1, Arthur Ernest,Nicholson,64,0,0,26.0,1,693,0,1,0,0,0
+546,547,3, Edward (Ethel Clarke),Beane,19,0,1,26.0,2,2908,1,1,0,0,1
+547,548,1, Julian,Padro y Manent,32,3,0,13.8625,2,SC/PARIS 2146,0,0,1,0,1
+548,549,1, Frank John,Goldsmith,33,0,0,20.525,3,363291,2,1,0,0,0
+549,550,4, John Morgan Jr,Davies,8,0,0,36.75,2,C.A. 33112,2,1,0,0,1
+550,551,1, John Borland Jr,Thayer,17,0,0,110.8833,1,17421,2,0,1,0,1
+551,552,1, Percival James R,Sharp,27,0,0,26.0,2,244358,0,1,0,0,0
+552,553,1, Timothy,O'Brien,32,3,0,7.8292,3,330979,0,0,0,1,0
+553,554,1," Fahim (""Philip Zenni"")",Leeni,22,0,0,7.225,3,2620,0,0,1,0,1
+554,555,2, Velin,Ohman,22,0,1,7.775,3,347085,0,1,0,0,1
+555,556,1, George,Wright,62,0,0,26.55,1,113807,0,1,0,0,0
+556,557,8," (Lucille Christiana Sutherland) (""Mrs Morgan"")",Duff Gordon,48,0,1,39.6,1,11755,1,0,1,0,1
+557,558,1, Victor,Robbins,32,3,0,227.525,1,PC 17757,0,0,1,0,0
+558,559,3, Emil (Tillie Mandelbaum),Taussig,39,0,1,79.65,1,110413,2,1,0,0,1
+559,560,3, Guillaume Joseph (Emma),de Messemaeker,36,0,1,17.4,3,345572,1,1,0,0,1
+560,561,1, Thomas Rowan,Morrow,32,3,0,7.75,3,372622,0,0,0,1,0
+561,562,1, Husein,Sivic,40,0,0,7.8958,3,349251,0,1,0,0,0
+562,563,1, Robert Douglas,Norman,28,0,0,13.5,2,218629,0,1,0,0,0
+563,564,1, John,Simmons,32,3,0,8.05,3,SOTON/OQ 392082,0,1,0,0,0
+564,565,2, (Marion Ogden),Meanwell,21,7,1,8.05,3,SOTON/O.Q. 392087,0,1,0,0,0
+565,566,1, Alfred J,Davies,24,0,0,24.15,3,A/4 48871,2,1,0,0,0
+566,567,1, Ilia,Stoytcheff,19,0,0,7.8958,3,349205,0,1,0,0,0
+567,568,3, Nils (Alma Cornelia Berglund),Palsson,29,0,1,21.075,3,349909,4,1,0,0,0
+568,569,1, Tannous,Doharr,32,3,0,7.2292,3,2686,0,0,1,0,0
+569,570,1, Carl,Jonsson,32,0,0,7.8542,3,350417,0,1,0,0,1
+570,571,1, George,Harris,62,0,0,10.5,2,S.W./PP 752,0,1,0,0,1
+571,572,3, Edward Dale (Charlotte Lamson),Appleton,53,0,1,51.4792,1,11769,2,1,0,0,1
+572,573,1," John Irwin (""Irving"")",Flynn,36,0,0,26.3875,1,PC 17474,0,1,0,0,1
+573,574,2, Mary,Kelly,21,7,1,7.75,3,14312,0,0,0,1,1
+574,575,1, Alfred George John,Rush,16,0,0,8.05,3,A/4. 20589,0,1,0,0,0
+575,576,1, George,Patchett,19,0,0,14.5,3,358585,0,1,0,0,0
+576,577,2, Ethel,Garside,34,0,1,13.0,2,243880,0,1,0,0,1
+577,578,3, William Baird (Alice Munger),Silvey,39,0,1,55.9,1,13507,1,1,0,0,1
+578,579,3, Joseph (Maria Elias),Caram,35,8,1,14.4583,3,2689,1,0,1,0,0
+579,580,1, Eiriik,Jussila,32,0,0,7.925,3,STON/O 2. 3101286,0,1,0,0,1
+580,581,2, Julie Rachel,Christy,25,0,1,30.0,2,237789,2,1,0,0,1
+581,582,3, John Borland (Marian Longstreth Morris),Thayer,39,0,1,110.8833,1,17421,2,0,1,0,1
+582,583,1, William James,Downton,54,0,0,26.0,2,28403,0,1,0,0,0
+583,584,1, John Hugo,Ross,36,0,0,40.125,1,13049,0,0,1,0,0
+584,585,1, Uscher,Paulner,32,3,0,8.7125,3,3411,0,0,1,0,0
+585,586,2, Ruth,Taussig,18,0,1,79.65,1,110413,2,1,0,0,1
+586,587,1, John Denzil,Jarvis,47,0,0,15.0,2,237565,0,1,0,0,0
+587,588,1, Maxmillian,Frolicher-Stehli,60,0,0,79.2,1,13567,2,0,1,0,1
+588,589,1, Eliezer,Gilinski,22,0,0,8.05,3,14973,0,1,0,0,0
+589,590,1, Joseph,Murdlin,32,3,0,8.05,3,A./5. 3235,0,1,0,0,0
+590,591,1, Matti,Rintamaki,35,0,0,7.125,3,STON/O 2. 3101273,0,1,0,0,0
+591,592,3, Walter Bertram (Martha Eustis),Stephenson,52,0,1,78.2667,1,36947,1,0,1,0,1
+592,593,1, William James,Elsbury,47,0,0,7.25,3,A/5 3902,0,1,0,0,0
+593,594,2, Mary,Bourke,21,7,1,7.75,3,364848,2,0,0,1,0
+594,595,1, John Henry,Chapman,37,0,0,26.0,2,SC/AH 29037,1,1,0,0,0
+595,596,1, Jean Baptiste,Van Impe,36,0,0,24.15,3,345773,2,1,0,0,0
+596,597,2, Jessie Wills,Leitch,21,7,1,33.0,2,248727,0,1,0,0,1
+597,598,1, Alfred,Johnson,49,0,0,0.0,3,LINE,0,1,0,0,0
+598,599,1, Hanna,Boulos,32,3,0,7.225,3,2664,0,0,1,0,0
+599,600,8," Cosmo Edmund (""Mr Morgan"")",Duff Gordon,49,0,0,56.9292,1,PC 17485,1,0,1,0,1
+600,601,3, Sidney Samuel (Amy Frances Christy),Jacobsohn,24,0,1,27.0,2,243847,3,1,0,0,1
+601,602,1, Petco,Slabenoff,32,3,0,7.8958,3,349214,0,1,0,0,0
+602,603,1, Charles H,Harrington,32,3,0,42.4,1,113796,0,1,0,0,0
+603,604,1, Ernst William,Torber,44,0,0,8.05,3,364511,0,1,0,0,0
+604,605,1," Harry (""Mr E Haven"")",Homer,35,0,0,26.55,1,111426,0,0,1,0,1
+605,606,1, Edvard Bengtsson,Lindell,36,0,0,15.55,3,349910,1,1,0,0,0
+606,607,1, Milan,Karaic,30,0,0,7.8958,3,349246,0,1,0,0,0
+607,608,1, Robert Williams,Daniel,27,0,0,30.5,1,113804,0,1,0,0,1
+608,609,3, Joseph (Juliette Marie Louise Lafargue),Laroche,22,0,1,41.5792,2,SC/Paris 2123,3,0,1,0,1
+609,610,2, Elizabeth W,Shutes,40,0,1,153.4625,1,PC 17582,0,1,0,0,1
+610,611,3, Anders Johan (Alfrida Konstantia Brogren),Andersson,39,0,1,31.275,3,347082,6,1,0,0,0
+611,612,1, Jose Neto,Jardin,32,3,0,7.05,3,SOTON/O.Q. 3101305,0,1,0,0,0
+612,613,2, Margaret Jane,Murphy,21,7,1,15.5,3,367230,1,0,0,1,1
+613,614,1, John,Horgan,32,3,0,7.75,3,370377,0,0,0,1,0
+614,615,1, William Alfred,Brocklebank,35,0,0,8.05,3,364512,0,1,0,0,0
+615,616,2, Alice,Herman,24,0,1,65.0,2,220845,3,1,0,0,1
+616,617,1, Ernst Gilbert,Danbom,34,0,0,14.4,3,347080,2,1,0,0,0
+617,618,3, William Arthur (Cordelia K Stanlick),Lobb,26,0,1,16.1,3,A/5. 3336,1,1,0,0,0
+618,619,2, Marion Louise,Becker,4,0,1,39.0,2,230136,3,1,0,0,1
+619,620,1, Lawrence,Gavey,26,0,0,10.5,2,31028,0,1,0,0,0
+620,621,1, Antoni,Yasbeck,27,0,0,14.4542,3,2659,1,0,1,0,0
+621,622,1, Edwin Nelson Jr,Kimball,42,0,0,52.5542,1,11753,1,1,0,0,1
+622,623,1, Sahid,Nakid,20,0,0,15.7417,3,2653,2,0,1,0,1
+623,624,1, Henry Damsgaard,Hansen,21,0,0,7.8542,3,350029,0,1,0,0,0
+624,625,1," David John ""Dai""",Bowen,21,0,0,16.1,3,54636,0,1,0,0,0
+625,626,1, Frederick,Sutton,61,0,0,32.3208,1,36963,0,1,0,0,0
+626,627,6, Charles Leonard,Kirkland,57,0,0,12.35,2,219533,0,0,0,1,0
+627,628,2, Gretchen Fiske,Longley,21,0,1,77.9583,1,13502,0,1,0,0,1
+628,629,1, Guentcho,Bostandyeff,26,0,0,7.8958,3,349224,0,1,0,0,0
+629,630,1, Patrick D,O'Connell,32,3,0,7.7333,3,334912,0,0,0,1,0
+630,631,1, Algernon Henry Wilson,Barkworth,80,0,0,30.0,1,27042,0,1,0,0,1
+631,632,1, Johan Svensson,Lundahl,51,0,0,7.0542,3,347743,0,1,0,0,0
+632,633,5, Max,Stahelin-Maeglin,32,0,0,30.5,1,13214,0,0,1,0,1
+633,634,1, William Henry Marsh,Parr,32,3,0,0.0,1,112052,0,1,0,0,0
+634,635,2, Mabel,Skoog,9,0,1,27.9,3,347088,5,1,0,0,0
+635,636,2, Mary,Davis,28,0,1,13.0,2,237668,0,1,0,0,1
+636,637,1, Antti Gustaf,Leinonen,32,0,0,7.925,3,STON/O 2. 3101292,0,1,0,0,0
+637,638,1, Harvey,Collyer,31,0,0,26.25,2,C.A. 31921,2,1,0,0,0
+638,639,3, Juha (Maria Emilia Ojala),Panula,41,0,1,39.6875,3,3101295,5,1,0,0,0
+639,640,1, Percival,Thorneycroft,32,3,0,16.1,3,376564,1,1,0,0,0
+640,641,1, Hans Peder,Jensen,20,0,0,7.8542,3,350050,0,1,0,0,0
+641,642,7, Emma,Sagesser,24,0,1,69.3,1,PC 17477,0,0,1,0,1
+642,643,2, Margit Elizabeth,Skoog,2,0,1,27.9,3,347088,5,1,0,0,0
+643,644,1, Choong,Foo,32,3,0,56.4958,3,1601,0,1,0,0,1
+644,645,2, Eugenie,Baclini,0,7,1,19.2583,3,2666,3,0,1,0,1
+645,646,1, Henry Sleeper,Harper,48,0,0,76.7292,1,PC 17572,1,0,1,0,1
+646,647,1, Liudevit,Cor,19,0,0,7.8958,3,349231,0,1,0,0,0
+647,648,7, Oberst Alfons,Simonius-Blumer,56,0,0,35.5,1,13213,0,0,1,0,1
+648,649,1, Edward,Willey,32,3,0,7.55,3,S.O./P.P. 751,0,1,0,0,0
+649,650,2, Amy Zillah Elsie,Stanley,23,0,1,7.55,3,CA. 2314,0,1,0,0,1
+650,651,1, Mito,Mitkoff,32,3,0,7.8958,3,349221,0,1,0,0,0
+651,652,2, Elsie,Doling,18,0,1,23.0,2,231919,1,1,0,0,1
+652,653,1, Johannes Halvorsen,Kalvik,21,0,0,8.4333,3,8475,0,1,0,0,0
+653,654,2," Hanora ""Norah""",O'Leary,21,7,1,7.8292,3,330919,0,0,0,1,1
+654,655,2," Hanora ""Nora""",Hegarty,18,0,1,6.75,3,365226,0,0,0,1,0
+655,656,1, Leonard Mark,Hickman,24,0,0,73.5,2,S.O.C. 14879,2,1,0,0,0
+656,657,1, Alexander,Radeff,32,3,0,7.8958,3,349223,0,1,0,0,0
+657,658,3, John (Catherine),Bourke,32,0,1,15.5,3,364849,2,0,0,1,0
+658,659,1, George Floyd,Eitemiller,23,0,0,13.0,2,29751,0,1,0,0,0
+659,660,1, Arthur Webster,Newell,58,0,0,113.275,1,35273,2,0,1,0,0
+660,661,5, Henry William,Frauenthal,50,0,0,133.65,1,PC 17611,2,1,0,0,1
+661,662,1, Mohamed,Badt,40,0,0,7.225,3,2623,0,0,1,0,0
+662,663,1, Edward Pomeroy,Colley,47,0,0,25.5875,1,5727,0,1,0,0,0
+663,664,1, Peju,Coleff,36,0,0,7.4958,3,349210,0,1,0,0,0
+664,665,1, Eino William,Lindqvist,20,0,0,7.925,3,STON/O 2. 3101285,1,1,0,0,1
+665,666,1, Lewis,Hickman,32,0,0,73.5,2,S.O.C. 14879,2,1,0,0,0
+666,667,1, Reginald Fenton,Butler,25,0,0,13.0,2,234686,0,1,0,0,0
+667,668,1, Knud Paust,Rommetvedt,32,3,0,7.775,3,312993,0,1,0,0,0
+668,669,1, Jacob,Cook,43,0,0,8.05,3,A/5 3536,0,1,0,0,0
+669,670,3, Elmer Zebley (Juliet Cummins Wright),Taylor,35,8,1,52.0,1,19996,1,1,0,0,1
+670,671,3, Thomas William Solomon (Elizabeth Catherine Ford),Brown,40,0,1,39.0,2,29750,2,1,0,0,1
+671,672,1, Thornton,Davidson,31,0,0,52.0,1,F.C. 12750,1,1,0,0,0
+672,673,1, Henry Michael,Mitchell,70,0,0,10.5,2,C.A. 24580,0,1,0,0,0
+673,674,1, Charles,Wilhelms,31,0,0,13.0,2,244270,0,1,0,0,1
+674,675,1, Ennis Hastings,Watson,32,3,0,0.0,2,239856,0,1,0,0,0
+675,676,1, Gustaf Hjalmar,Edvardsson,18,0,0,7.775,3,349912,0,1,0,0,0
+676,677,1, Frederick Charles,Sawyer,24,5,0,8.05,3,342826,0,1,0,0,0
+677,678,2, Anna Sofia,Turja,18,0,1,9.8417,3,4138,0,1,0,0,1
+678,679,3, Frederick (Augusta Tyler),Goodwin,43,0,1,46.9,3,CA 2144,7,1,0,0,0
+679,680,1, Thomas Drake Martinez,Cardeza,36,0,0,512.3292,1,PC 17755,1,0,1,0,1
+680,681,2, Katie,Peters,21,7,1,8.1375,3,330935,0,0,0,1,0
+681,682,1, Hammad,Hassab,27,0,0,76.7292,1,PC 17572,0,0,1,0,1
+682,683,1, Thor Anderson,Olsvigen,20,0,0,9.225,3,6563,0,1,0,0,0
+683,684,1, Charles Edward,Goodwin,14,0,0,46.9,3,CA 2144,7,1,0,0,0
+684,685,1, Thomas William Solomon,Brown,60,0,0,39.0,2,29750,2,1,0,0,0
+685,686,1, Joseph Philippe Lemercier,Laroche,25,0,0,41.5792,2,SC/Paris 2123,3,0,1,0,0
+686,687,1, Jaako Arnold,Panula,14,0,0,39.6875,3,3101295,5,1,0,0,0
+687,688,1, Branko,Dakic,19,0,0,10.1708,3,349228,0,1,0,0,0
+688,689,1, Eberhard Thelander,Fischer,18,0,0,7.7958,3,350036,0,1,0,0,0
+689,690,2, Georgette Alexandra,Madill,15,0,1,211.3375,1,24160,1,1,0,0,1
+690,691,1, Albert Adrian,Dick,31,0,0,57.0,1,17474,1,1,0,0,1
+691,692,2, Manca,Karun,4,0,1,13.4167,3,349256,1,0,1,0,1
+692,693,1, Ali,Lam,32,3,0,56.4958,3,1601,0,1,0,0,1
+693,694,1, Khalil,Saad,25,0,0,7.225,3,2672,0,0,1,0,0
+694,695,7, John,Weir,60,0,0,26.55,1,113800,0,1,0,0,0
+695,696,1, Charles Henry,Chapman,52,0,0,13.5,2,248731,0,1,0,0,0
+696,697,1, James,Kelly,44,0,0,8.05,3,363592,0,1,0,0,0
+697,698,2," Katherine ""Katie""",Mullens,21,7,1,7.7333,3,35852,0,0,0,1,1
+698,699,1, John Borland,Thayer,49,0,0,110.8833,1,17421,2,0,1,0,0
+699,700,1, Adolf Mathias Nicolai Olsen,Humblen,42,0,0,7.65,3,348121,0,1,0,0,0
+700,701,3, John Jacob (Madeleine Talmadge Force),Astor,18,0,1,227.525,1,PC 17757,1,0,1,0,1
+701,702,1, Spencer Victor,Silverthorne,35,0,0,26.2875,1,PC 17475,0,1,0,0,1
+702,703,2, Saiide,Barbara,18,0,1,14.4542,3,2691,1,0,1,0,0
+703,704,1, Martin,Gallagher,25,0,0,7.7417,3,36864,0,0,0,1,0
+704,705,1, Henrik Juul,Hansen,26,0,0,7.8542,3,350025,1,1,0,0,0
+705,706,1," Henry Samuel (""Mr Henry Marshall"")",Morley,39,0,0,26.0,2,250655,0,1,0,0,0
+706,707,3," Florence ""Fannie""",Kelly,45,0,1,13.5,2,223596,0,1,0,0,1
+707,708,1, Edward Pennington,Calderhead,42,0,0,26.2875,1,PC 17476,0,1,0,0,1
+708,709,2, Alice,Cleaver,22,0,1,151.55,1,113781,0,1,0,0,1
+709,710,4," Halim Gonios (""William George"")",Moubarek,4,5,0,15.2458,3,2661,2,0,1,0,1
+710,711,7," Berthe Antonine (""Mrs de Villiers"")",Mayne,24,0,1,49.5042,1,PC 17482,0,0,1,0,1
+711,712,1, Herman,Klaber,32,3,0,26.55,1,113028,0,1,0,0,0
+712,713,1, Elmer Zebley,Taylor,48,0,0,52.0,1,19996,1,1,0,0,1
+713,714,1, August Viktor,Larsson,29,0,0,9.4833,3,7545,0,1,0,0,0
+714,715,1, Samuel,Greenberg,52,0,0,13.0,2,250647,0,1,0,0,0
+715,716,1, Peter Andreas Lauritz Andersen,Soholt,19,0,0,7.65,3,348124,0,1,0,0,0
+716,717,2, Caroline Louise,Endres,38,0,1,227.525,1,PC 17757,0,0,1,0,1
+717,718,2," Edwina Celia ""Winnie""",Troutt,27,0,1,10.5,2,34218,0,1,0,0,1
+718,719,1, Michael,McEvoy,32,3,0,15.5,3,36568,0,0,0,1,0
+719,720,1, Malkolm Joackim,Johnson,33,0,0,7.775,3,347062,0,1,0,0,0
+720,721,2," Annie Jessie ""Nina""",Harper,6,0,1,33.0,2,248727,1,1,0,0,1
+721,722,1, Svend Lauritz,Jensen,17,0,0,7.0542,3,350048,1,1,0,0,0
+722,723,1, William Henry,Gillespie,34,0,0,13.0,2,12233,0,1,0,0,0
+723,724,1, Henry Price,Hodges,50,0,0,13.0,2,250643,0,1,0,0,0
+724,725,1, Norman Campbell,Chambers,27,0,0,53.1,1,113806,1,1,0,0,1
+725,726,1, Luka,Oreskovic,20,0,0,8.6625,3,315094,0,1,0,0,0
+726,727,3, Peter Henry (Lillian Jefferys),Renouf,30,0,1,21.0,2,31027,3,1,0,0,1
+727,728,2, Margareth,Mannion,21,7,1,7.7375,3,36866,0,0,0,1,1
+728,729,1, Kurt Arnold Gottfrid,Bryhl,25,0,0,26.0,2,236853,1,1,0,0,0
+729,730,2, Pieta Sofia,Ilmakangas,25,0,1,7.925,3,STON/O2. 3101271,1,1,0,0,0
+730,731,2, Elisabeth Walton,Allen,29,0,1,211.3375,1,24160,0,1,0,0,1
+731,732,1, Houssein G N,Hassan,11,0,0,18.7875,3,2699,0,0,1,0,0
+732,733,1, Robert J,Knight,32,3,0,0.0,2,239855,0,1,0,0,0
+733,734,1, William John,Berriman,23,0,0,13.0,2,28425,0,1,0,0,0
+734,735,1, Moses Aaron,Troupiansky,23,0,0,13.0,2,233639,0,1,0,0,0
+735,736,1, Leslie,Williams,28,5,0,16.1,3,54636,0,1,0,0,0
+736,737,3, Edward (Margaret Ann Watson),Ford,48,0,1,34.375,3,W./C. 6608,4,1,0,0,0
+737,738,1, Gustave J,Lesurer,35,0,0,512.3292,1,PC 17755,0,0,1,0,1
+738,739,1, Kanio,Ivanoff,32,3,0,7.8958,3,349201,0,1,0,0,0
+739,740,1, Minko,Nankoff,32,3,0,7.8958,3,349218,0,1,0,0,0
+740,741,1, Walter James,Hawksford,32,3,0,30.0,1,16988,0,1,0,0,1
+741,742,1, Tyrell William,Cavendish,36,0,0,78.85,1,19877,1,1,0,0,0
+742,743,2," Susan Parker ""Suzette""",Ryerson,21,0,1,262.375,1,PC 17608,4,0,1,0,1
+743,744,1, Neal,McNamee,24,0,0,16.1,3,376566,1,1,0,0,0
+744,745,1, Juho,Stranden,31,0,0,7.925,3,STON/O 2. 3101288,0,1,0,0,1
+745,746,8, Edward Gifford,Crosby,70,0,0,71.0,1,WE/P 5735,2,1,0,0,0
+746,747,1, Rossmore Edward,Abbott,16,0,0,20.25,3,C.A. 2673,2,1,0,0,0
+747,748,2, Anna,Sinkkonen,30,0,1,13.0,2,250648,0,1,0,0,1
+748,749,1, Daniel Warner,Marvin,19,0,0,53.1,1,113773,1,1,0,0,0
+749,750,1, Michael,Connaghton,31,0,0,7.75,3,335097,0,0,0,1,0
+750,751,2, Joan,Wells,4,0,1,23.0,2,29103,2,1,0,0,1
+751,752,4, Meier,Moor,6,0,0,12.475,3,392096,1,1,0,0,1
+752,753,1, Johannes Joseph,Vande Velde,33,0,0,9.5,3,345780,0,1,0,0,0
+753,754,1, Lalio,Jonkoff,23,0,0,7.8958,3,349204,0,1,0,0,0
+754,755,3, Samuel (Jane Laver),Herman,48,0,1,65.0,2,220845,3,1,0,0,1
+755,756,4, Viljo,Hamalainen,0,6,0,14.5,2,250649,2,1,0,0,1
+756,757,1, August Sigfrid,Carlsson,28,0,0,7.7958,3,350042,0,1,0,0,0
+757,758,1, Percy Andrew,Bailey,18,0,0,11.5,2,29108,0,1,0,0,0
+758,759,1, Thomas Leonard,Theobald,34,0,0,8.05,3,363294,0,1,0,0,0
+759,760,8, of (Lucy Noel Martha Dyer-Edwards),Rothes,33,0,1,86.5,1,110152,0,1,0,0,1
+760,761,1, John,Garfirth,32,3,0,14.5,3,358585,0,1,0,0,0
+761,762,1, Iisakki Antino Aijo,Nirva,41,0,0,7.125,3,SOTON/O2 3101272,0,1,0,0,0
+762,763,1, Hanna Assi,Barah,20,0,0,7.2292,3,2663,0,0,1,0,1
+763,764,3, William Ernest (Lucile Polk),Carter,36,0,1,120.0,1,113760,3,1,0,0,1
+764,765,1, Hans Linus,Eklund,16,0,0,7.775,3,347074,0,1,0,0,0
+765,766,3, John C (Anna Andrews),Hogeboom,51,0,1,77.9583,1,13502,1,1,0,0,1
+766,767,5, Arthur Jackson,Brewe,42,0,0,39.6,1,112379,0,0,1,0,0
+767,768,2, Mary,Mangan,30,5,1,7.75,3,364850,0,0,0,1,0
+768,769,1, Daniel J,Moran,32,3,0,24.15,3,371110,1,0,0,1,0
+769,770,1, Daniel Danielsen,Gronnestad,32,0,0,8.3625,3,8471,0,1,0,0,0
+770,771,1, Rene Aime,Lievens,24,0,0,9.5,3,345781,0,1,0,0,0
+771,772,1, Niels Peder,Jensen,48,0,0,7.8542,3,350047,0,1,0,0,0
+772,773,3, (Mary),Mack,57,0,1,10.5,2,S.O./P.P. 3,0,1,0,0,0
+773,774,1, Dibo,Elias,32,3,0,7.225,3,2674,0,0,1,0,0
+774,775,3, Elizabeth (Eliza Needs),Hocking,54,0,1,23.0,2,29105,4,1,0,0,1
+775,776,1, Pehr Fabian Oliver Malkolm,Myhrman,18,0,0,7.75,3,347078,0,1,0,0,0
+776,777,1, Roger,Tobin,32,3,0,7.75,3,383121,0,0,0,1,0
+777,778,2, Virginia Ethel,Emanuel,5,0,1,12.475,3,364516,0,1,0,0,1
+778,779,1, Thomas J,Kilgannon,32,3,0,7.7375,3,36865,0,0,0,1,0
+779,780,3, Edward Scott (Elisabeth Walton McMillan),Robert,43,0,1,211.3375,1,24160,1,1,0,0,1
+780,781,2, Banoura,Ayoub,13,0,1,7.2292,3,2687,0,0,1,0,1
+781,782,3, Albert Adrian (Vera Gillespie),Dick,17,0,1,57.0,1,17474,1,1,0,0,1
+782,783,1, Milton Clyde,Long,29,0,0,30.0,1,113501,0,1,0,0,0
+783,784,1, Andrew G,Johnston,32,3,0,23.45,3,W./C. 6607,3,1,0,0,0
+784,785,1, William,Ali,25,0,0,7.05,3,SOTON/O.Q. 3101312,0,1,0,0,0
+785,786,1, Abraham (David Lishin),Harmer,25,0,0,7.25,3,374887,0,1,0,0,0
+786,787,2, Anna Sofia,Sjoblom,18,0,1,7.4958,3,3101265,0,1,0,0,1
+787,788,4, George Hugh,Rice,8,0,0,29.125,3,382652,5,0,0,1,0
+788,789,4, Bertram Vere,Dean,1,0,0,20.575,3,C.A. 2315,3,1,0,0,1
+789,790,1, Benjamin,Guggenheim,46,0,0,79.2,1,PC 17593,0,0,1,0,0
+790,791,1," Andrew ""Andy""",Keane,32,3,0,7.75,3,12460,0,0,0,1,0
+791,792,1, Alfred,Gaskell,16,0,0,26.0,2,239865,0,1,0,0,0
+792,793,2, Stella Anna,Sage,21,7,1,69.55,3,CA. 2343,10,1,0,0,0
+793,794,1, William Fisher,Hoyt,32,3,0,30.6958,1,PC 17600,0,0,1,0,0
+794,795,1, Ristiu,Dantcheff,25,0,0,7.8958,3,349203,0,1,0,0,0
+795,796,1, Richard,Otter,39,0,0,13.0,2,28213,0,1,0,0,0
+796,797,5, Alice (Farnham),Leader,49,0,1,25.9292,1,17465,0,1,0,0,1
+797,798,3, Mara,Osman,31,0,1,8.6833,3,349244,0,1,0,0,1
+798,799,1, Yousseff,Ibrahim Shawah,30,0,0,7.2292,3,2685,0,0,1,0,0
+799,800,3, Jean Baptiste (Rosalie Paula Govaert),Van Impe,30,0,1,24.15,3,345773,2,1,0,0,0
+800,801,1, Martin,Ponesell,34,0,0,13.0,2,250647,0,1,0,0,0
+801,802,3, Harvey (Charlotte Annie Tate),Collyer,31,0,1,26.25,2,C.A. 31921,2,1,0,0,1
+802,803,4, William Thornton II,Carter,11,0,0,120.0,1,113760,3,1,0,0,1
+803,804,4, Assad Alexander,Thomas,0,4,0,8.5167,3,2625,1,0,1,0,1
+804,805,1, Oskar Arvid,Hedman,27,0,0,6.975,3,347089,0,1,0,0,1
+805,806,1, Karl Johan,Johansson,31,0,0,7.775,3,347063,0,1,0,0,0
+806,807,1, Thomas Jr,Andrews,39,0,0,0.0,1,112050,0,1,0,0,0
+807,808,2, Ellen Natalia,Pettersson,18,0,1,7.775,3,347087,0,1,0,0,0
+808,809,1, August,Meyer,39,0,0,13.0,2,248723,0,1,0,0,0
+809,810,3, Norman Campbell (Bertha Griggs),Chambers,33,0,1,53.1,1,113806,1,1,0,0,1
+810,811,1, William,Alexander,26,0,0,7.8875,3,3474,0,1,0,0,0
+811,812,1, James,Lester,39,0,0,24.15,3,A/4 48871,0,1,0,0,0
+812,813,1, Richard James,Slemen,35,0,0,10.5,2,28206,0,1,0,0,0
+813,814,2, Ebba Iris Alfrida,Andersson,6,0,1,31.275,3,347082,6,1,0,0,0
+814,815,1, Ernest Portage,Tomlin,30,5,0,8.05,3,364499,0,1,0,0,0
+815,816,1, Richard,Fry,32,3,0,0.0,1,112058,0,1,0,0,0
+816,817,2, Wendla Maria,Heininen,23,0,1,7.925,3,STON/O2. 3101290,0,1,0,0,0
+817,818,1, Albert,Mallet,31,0,0,37.0042,2,S.C./PARIS 2079,2,0,1,0,0
+818,819,1, John Fredrik Alexander,Holm,43,0,0,6.45,3,C 7075,0,1,0,0,0
+819,820,4, Karl Thorsten,Skoog,10,0,0,27.9,3,347088,5,1,0,0,0
+820,821,3, Charles Melville (Clara Jennings Gregg),Hays,52,0,1,93.5,1,12749,2,1,0,0,1
+821,822,1, Nikola,Lulic,27,0,0,8.6625,3,315098,0,1,0,0,1
+822,823,8, John George,Reuchlin,38,0,0,0.0,1,19972,0,1,0,0,0
+823,824,3, (Beila),Moor,27,0,1,12.475,3,392096,1,1,0,0,1
+824,825,4, Urho Abraham,Panula,2,0,0,39.6875,3,3101295,5,1,0,0,0
+825,826,1, John,Flynn,32,3,0,6.95,3,368323,0,0,0,1,0
+826,827,1, Len,Lam,32,3,0,56.4958,3,1601,0,1,0,0,0
+827,828,4, Andre,Mallet,1,0,0,37.0042,2,S.C./PARIS 2079,2,0,1,0,1
+828,829,1, Thomas Joseph,McCormack,32,3,0,7.75,3,367228,0,0,0,1,1
+829,830,3, George Nelson (Martha Evelyn),Stone,62,0,1,80.0,1,113572,0,1,0,0,1
+830,831,3, Antoni (Selini Alexander),Yasbeck,15,0,1,14.4542,3,2659,1,0,1,0,1
+831,832,4, George Sibley,Richards,0,8,0,18.75,2,29106,2,1,0,0,1
+832,833,1, Amin,Saad,32,3,0,7.2292,3,2671,0,0,1,0,0
+833,834,1, Albert,Augustsson,23,0,0,7.8542,3,347468,0,1,0,0,0
+834,835,1, Owen George,Allum,18,0,0,8.3,3,2223,0,1,0,0,0
+835,836,2, Sara Rebecca,Compton,39,0,1,83.1583,1,PC 17756,2,0,1,0,1
+836,837,1, Jakob,Pasic,21,0,0,8.6625,3,315097,0,1,0,0,0
+837,838,1, Maurice,Sirota,32,3,0,8.05,3,392092,0,1,0,0,0
+838,839,1, Chang,Chip,32,0,0,56.4958,3,1601,0,1,0,0,1
+839,840,1, Pierre,Marechal,32,3,0,29.7,1,11774,0,0,1,0,1
+840,841,1, Ilmari Rudolf,Alhomaki,20,0,0,7.925,3,SOTON/O2 3101287,0,1,0,0,0
+841,842,1, Thomas Charles,Mudd,16,0,0,10.5,2,S.O./P.P. 3,0,1,0,0,0
+842,843,2, Augusta,Serepeca,30,0,1,31.0,1,113798,0,0,1,0,1
+843,844,1, Peter L,Lemberopolous,34,5,0,6.4375,3,2683,0,0,1,0,0
+844,845,1, Jeso,Culumovic,17,0,0,8.6625,3,315090,0,1,0,0,0
+845,846,1, Anthony,Abbing,42,0,0,7.55,3,C.A. 5547,0,1,0,0,0
+846,847,1, Douglas Bullen,Sage,32,3,0,69.55,3,CA. 2343,10,1,0,0,0
+847,848,1, Marin,Markoff,35,0,0,7.8958,3,349213,0,0,1,0,0
+848,849,6, John,Harper,28,0,0,33.0,2,248727,1,1,0,0,0
+849,850,3, Samuel L (Edwiga Grabowska),Goldenberg,35,8,1,89.1042,1,17453,1,0,1,0,1
+850,851,4, Sigvard Harald Elias,Andersson,4,0,0,31.275,3,347082,6,1,0,0,0
+851,852,1, Johan,Svensson,74,0,0,7.775,3,347060,0,1,0,0,0
+852,853,2, Nourelain,Boulos,9,0,1,15.2458,3,2678,2,0,1,0,0
+853,854,2, Mary Conover,Lines,16,0,1,39.4,1,PC 17592,1,1,0,0,1
+854,855,3, Ernest Courtenay (Lilian Hughes),Carter,44,0,1,26.0,2,244252,1,1,0,0,0
+855,856,3, Sam (Leah Rosen),Aks,18,0,1,9.35,3,392091,1,1,0,0,1
+856,857,3, George Dennick (Mary Hitchcock),Wick,45,0,1,164.8667,1,36928,2,1,0,0,1
+857,858,1, Peter Denis ,Daly,51,0,0,26.55,1,113055,0,1,0,0,1
+858,859,3, Solomon (Latifa Qurban),Baclini,24,0,1,19.2583,3,2666,3,0,1,0,1
+859,860,1, Raihed,Razi,32,3,0,7.2292,3,2629,0,0,1,0,0
+860,861,1, Claus Peter,Hansen,41,0,0,14.1083,3,350026,2,1,0,0,0
+861,862,1, Frederick Edward,Giles,21,0,0,11.5,2,28134,1,1,0,0,0
+862,863,3, Frederick Joel (Margaret Welles Barron),Swift,48,0,1,25.9292,1,17466,0,1,0,0,1
+863,864,2," Dorothy Edith ""Dolly""",Sage,21,7,1,69.55,3,CA. 2343,10,1,0,0,0
+864,865,1, John William,Gill,24,0,0,13.0,2,233866,0,1,0,0,0
+865,866,3, (Karolina),Bystrom,42,0,1,13.0,2,236852,0,1,0,0,1
+866,867,2, Asuncion,Duran y More,27,0,1,13.8583,2,SC/PARIS 2149,1,0,1,0,1
+867,868,1, Washington Augustus II,Roebling,31,0,0,50.4958,1,PC 17590,0,1,0,0,0
+868,869,1, Philemon,van Melkebeke,32,3,0,9.5,3,345777,0,1,0,0,0
+869,870,4, Harold Theodor,Johnson,4,0,0,11.1333,3,347742,2,1,0,0,1
+870,871,1, Cerin,Balkic,26,0,0,7.8958,3,349248,0,1,0,0,0
+871,872,3, Richard Leonard (Sallie Monypeny),Beckwith,47,0,1,52.5542,1,11751,2,1,0,0,1
+872,873,1, Frans Olof,Carlsson,33,0,0,5.0,1,695,0,1,0,0,0
+873,874,1, Victor,Vander Cruyssen,47,0,0,9.0,3,345765,0,1,0,0,0
+874,875,3, Samuel (Hannah Wizosky),Abelson,28,0,1,24.0,2,P/PP 3381,1,0,1,0,1
+875,876,2," Adele Kiamie ""Jane""",Najib,15,0,1,7.225,3,2667,0,0,1,0,1
+876,877,1, Alfred Ossian,Gustafsson,20,0,0,9.8458,3,7534,0,1,0,0,0
+877,878,1, Nedelio,Petroff,19,0,0,7.8958,3,349212,0,1,0,0,0
+878,879,1, Kristo,Laleff,32,3,0,7.8958,3,349217,0,1,0,0,0
+879,880,3, Thomas Jr (Lily Alexenia Wilson),Potter,56,0,1,83.1583,1,11767,1,0,1,0,1
+880,881,3, William (Imanita Parrish Hall),Shelley,25,0,1,26.0,2,230433,1,1,0,0,1
+881,882,1, Johann,Markun,33,0,0,7.8958,3,349257,0,1,0,0,0
+882,883,2, Gerda Ulrika,Dahlberg,22,0,1,10.5167,3,7552,0,1,0,0,0
+883,884,1, Frederick James,Banfield,28,0,0,10.5,2,C.A./SOTON 34068,0,1,0,0,0
+884,885,1, Henry Jr,Sutehall,25,0,0,7.05,3,SOTON/OQ 392076,0,1,0,0,0
+885,886,3, William (Margaret Norton),Rice,39,0,1,29.125,3,382652,5,0,0,1,0
+886,887,6, Juozas,Montvila,27,0,0,13.0,2,211536,0,1,0,0,0
+887,888,2, Margaret Edith,Graham,19,0,1,30.0,1,112053,0,1,0,0,1
+888,889,2," Catherine Helen ""Carrie""",Johnston,21,7,1,23.45,3,W./C. 6607,3,1,0,0,0
+889,890,1, Karl Howell,Behr,26,0,0,30.0,1,111369,0,0,1,0,1
+890,891,1, Patrick,Dooley,32,0,0,7.75,3,370376,0,0,0,1,0
